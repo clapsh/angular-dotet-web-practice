@@ -1,0 +1,17 @@
+C:\Users\LG-PC\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.csprojAssemblyReference.cache
+C:\Users\LG-PC\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.AssemblyInfoInputs.cache
+C:\Users\LG-PC\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.AssemblyInfo.cs
+C:\Users\LG-PC\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\LG-PC\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorAssemblyInfo.cache
+C:\Users\LG-PC\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorAssemblyInfo.cs
+C:\Users\LG-PC\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\LG-PC\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.deps.json
+C:\Users\LG-PC\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.runtimeconfig.json
+C:\Users\LG-PC\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.runtimeconfig.dev.json
+C:\Users\LG-PC\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.dll
+C:\Users\LG-PC\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.pdb
+C:\Users\LG-PC\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorTargetAssemblyInfo.cache
+C:\Users\LG-PC\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.dll
+C:\Users\LG-PC\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.pdb
+C:\Users\LG-PC\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.genruntimeconfig.cache
+C:\Users\LG-PC\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\appsettings.json

@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-WebApplication3",
+      "appliesTo": "WebApplication3/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-WebApplication3",
+      "appliesTo": "WebApplication3.sln",
+      "type": "launch"
+    }
+  ]
+}
